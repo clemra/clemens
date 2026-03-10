@@ -12,3 +12,6 @@ public/sitemap*.xml
 
 # Mac
 .DS_Store
+
+# Prediction market data (user bets, play money)
+data/market.json
